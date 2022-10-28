@@ -6,6 +6,8 @@ This repository contains supporting materials for season 3 (2022/23) of the UCL 
 
 - Filip Trhlík (Head of Tutorials)
 - Yuwei Zhu (Tutorials Officer)
+- Nimit Bakrania (Tutorials Officer)
+- Meghana Somepalli (Tutorials Officer)
 - Aliff Noorisman (Machine Learning Officer)
 - Luke Lee (Machine Learning Officer)
 
